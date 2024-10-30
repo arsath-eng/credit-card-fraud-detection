@@ -1,0 +1,4 @@
+
+# Ignore environment and dependencies
+venv/
+
