@@ -1,4 +1,5 @@
 
 # Ignore environment and dependencies
 venv/
+data/creditcard.csv
 
